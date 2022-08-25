@@ -1,0 +1,120 @@
+.navbar{
+    background-color: rgb(224, 190, 190);
+}
+
+.navbar  .navbar-brand {
+    color: black;
+    font-weight: bold;
+    font-size: 27px;
+}
+ .navbar .navbar-collapse .navbar-nav .nav-item .nav-link{
+     padding-right: 25px;
+     
+ }
+ .background{
+     background-image:url(../images/food.jpg) ;
+     background-size: cover;
+     height: 100vh;
+    background-repeat: no-repeat;
+    
+
+ }
+
+ .about-food{
+     text-align: center;
+     margin-top: 60px;
+     margin-bottom: 60px;
+
+ }
+ .about-food h2{
+     color:rgb(224, 190, 190);
+     padding-bottom: 20px;
+     font-weight: bold;
+     font-size: 40px;
+ }
+ .about-food p{
+    
+     color: rgb(94, 94, 94);
+ }
+
+ .product-food{
+    text-align: center;
+
+ }
+ .product-food h2{
+    color:rgb(224, 190, 190);
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+    
+ }
+
+
+
+ .product-food img{
+     height: 300px;
+ }
+ .product-food .card-body a{
+    border: 0;
+    background-color:rgb(224, 190, 190);
+ }
+
+
+
+ .product-food-1{
+    text-align: center;
+    margin-top: 450px;
+    margin-bottom: 400px !important;
+
+ }
+ .product-food-1 h2{
+    color:rgb(224, 190, 190);
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+    
+ }
+
+
+
+ .product-food-1 img{
+     height: 300px;
+ }
+ .product-food-1 .card-body a{
+    border: 0;
+    background-color:rgb(224, 190, 190);
+ }
+
+ .map{
+     padding-top: 60px !important;
+     padding-bottom: 60px;
+
+ }
+ .contact{
+     background-color: rgb(224, 190, 190);
+ }
+ .contact form{
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ .contact form button{
+     background-color: white;
+     color: black;
+ }
+ .contact .contact-ul ul li a{
+text-decoration: none;
+color: white;
+
+
+ }
+ .contact .contact-ul ul {
+    padding-top: 40px;
+   
+      
+       }
+ .contact .contact-ul ul li {
+  padding-top: 30px;
+  padding-left: 100px;
+  
+    
+     }
